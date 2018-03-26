@@ -9,12 +9,12 @@
 자, 그럼 여기서 구글링ㅎ
 
 역시 ssh key를 여러 개 만드는 방법이 나와있다.  
-http://yookeun.github.io/tools/2016/06/26/git-multi-ssh/
+[http://yookeun.github.io/tools/2016/06/26/git-multi-ssh/](http://yookeun.github.io/tools/2016/06/26/git-multi-ssh/){:target="_blank"}
 
 하지만 검색하는 김에 'git 비밀번호'로 검색해보니 간단하게 캐시를 이용하는 방법이 있어서 우선 이 방법을 먼저 써보기로 했다.
 
-* https://git-scm.com/docs/git-credential-cache
-* https://www.devkwon.com/posts/132
+* [https://git-scm.com/docs/git-credential-cache](https://git-scm.com/docs/git-credential-cache){:target="_blank"}
+* [https://www.devkwon.com/posts/132](https://www.devkwon.com/posts/132){:target="_blank"}
 
 ```bash
 git config credential.helper 'cache [options]'
