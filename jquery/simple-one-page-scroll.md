@@ -40,4 +40,4 @@ $(function() {
 });
 ```
 
-[[View Codepen]](https://codepen.io/lovingweb/pen/EEoGGK/)
+[[View Codepen]](https://codepen.io/lovingweb/full/EEoGGK/)
