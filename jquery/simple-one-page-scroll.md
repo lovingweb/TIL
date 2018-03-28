@@ -40,5 +40,5 @@ $(function() {
 });
 ```
 
-<p data-height="400" data-theme-id="32424" data-slug-hash="EEoGGK" data-default-tab="result" data-user="lovingweb" data-embed-version="2" data-pen-title="Simple one page scroll" class="codepen">See the Pen <a href="https://codepen.io/lovingweb/pen/EEoGGK/">Simple one page scroll</a> by lovingweb (<a href="https://codepen.io/lovingweb">@lovingweb</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<iframe height='300' scrolling='no' title='Simple one page scroll' src='//codepen.io/lovingweb/embed/EEoGGK/?height=300&theme-id=32424&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lovingweb/pen/EEoGGK/'>Simple one page scroll</a> by lovingweb (<a href='https://codepen.io/lovingweb'>@lovingweb</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
