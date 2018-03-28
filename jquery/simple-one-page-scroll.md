@@ -5,7 +5,7 @@
 ```html
 <nav id="nav">
   <ul>
-    <li><a href="#section1" title="section1">section1</a></li>
+    <li><a href="#section1" title="section1" class="active">section1</a></li>
     <li><a href="#section2" title="section2">section2</a></li>
     <li><a href="#section3" title="section3">section3</a></li>
     <li><a href="#section4" title="section4">section4</a></li>
