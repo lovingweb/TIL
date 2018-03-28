@@ -40,4 +40,6 @@ $(function() {
 });
 ```
 
+내일은 `scollify`기능을 추가해보자.
+
 [[View Codepen]](https://codepen.io/lovingweb/full/EEoGGK/)
