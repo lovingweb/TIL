@@ -40,5 +40,4 @@ $(function() {
 });
 ```
 
-<iframe height='300' scrolling='no' title='Simple one page scroll' src='//codepen.io/lovingweb/embed/EEoGGK/?height=300&theme-id=32424&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lovingweb/pen/EEoGGK/'>Simple one page scroll</a> by lovingweb (<a href='https://codepen.io/lovingweb'>@lovingweb</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+[[View Codepen]](https://codepen.io/lovingweb/pen/EEoGGK/)
